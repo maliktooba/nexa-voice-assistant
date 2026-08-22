@@ -1,0 +1,4 @@
+To activate venv:
+venv\Scripts\activate
+To run the app:
+python api/index.py
